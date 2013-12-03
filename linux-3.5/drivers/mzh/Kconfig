@@ -1,0 +1,7 @@
+config MZH_KTHREAD
+	tristate "my kthread"
+	default y
+
+config MZH_LIST
+	tristate "list theory"
+	default y
